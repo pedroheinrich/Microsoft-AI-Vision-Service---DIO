@@ -29,3 +29,20 @@
   }
 }
 
+
+{
+  "apim-request-id": "b9f04a31-87fd-421f-bfbb-44d3beef2eb9",
+  "comprimento do conteúdo": "161",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "uma casa com luz na porta",
+    "confiança": 0,6885830163955688
+  },
+  "metadados": {
+    "largura": 3456,
+    "altura": 5184
+  }
+}
+
+
