@@ -65,3 +65,7 @@ Após o upload da imagem, aparecerá a legenda gerada automaticamente ao lado
 
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Vision-Service---DIO/assets/97209403/8f0e897f-5ede-44ee-ad35-b4575d77401f)
 
+![image](https://github.com/pedroheinrich/Microsoft-AI-Vision-Service---DIO/assets/97209403/b7659e76-6230-49f6-81d3-a9a2b8a52ef4)
+
+
+
