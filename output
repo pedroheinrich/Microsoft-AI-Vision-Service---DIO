@@ -1,1 +1,31 @@
 
+{
+  "apim-request-id": "6226c4b1-323b-4113-92dc-1142595c779a",
+  "comprimento do conteúdo": "156",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "dois cachorros deitados um sobre o outro",
+    "confiança": 0,840147078037262
+  },
+  "metadados": {
+    "largura": 3456,
+    "altura": 5184
+  }
+}
+
+{
+  "apim-request-id": "2ab2e388-f0c1-46a5-b645-4e33ed701e6c",
+  "comprimento do conteúdo": "162",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "dois cachorros andando ao lado de um carro vermelho",
+    "confiança": 0,767523467540741
+  },
+  "metadados": {
+    "largura": 3456,
+    "altura": 5184
+  }
+}
+
